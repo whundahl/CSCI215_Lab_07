@@ -1,7 +1,7 @@
 # CSCI215_Lab_07
 Event Object usage
 
-Name: _______________________________________
+Name: _______William Hundahl_________
 
 ## DUE: 30 Nov 2017 @ 11:59 pm
 
