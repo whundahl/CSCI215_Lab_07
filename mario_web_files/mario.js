@@ -169,7 +169,7 @@ function draw() {
         if(keycode == 37){
             Mario.timer = setTimeout(faceForward, 200);
         }
-        //Make him face forward after listed time (Left)
+        //Make him face forward after listed time (Right)
         if(keycode == 39){
             Mario.timer = setTimeout(faceForward, 200);
         }
